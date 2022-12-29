@@ -1,0 +1,24 @@
+h2{
+    font-family: 'Gill Sans',sans-serif;
+    color: rgba(0,0,0,.85);
+    font-weight: 600;
+    font-size: 30px;
+}
+p{
+    font-family: 'Gill Sans',sans-serif;
+    color: #666;  
+}
+input{
+    height: 38px;
+    width: 295px;
+    font-family: 'Gill Sans',sans-serif;
+    border-radius: 5px;
+    border-color: lightgreen;
+    border-width: 2px;
+}
+h4{
+    font-style:inherit ;
+    font-size: medium ;
+    font-family: 'Gill Sans',sans-serif;
+    color: #0d6db7;        
+}
